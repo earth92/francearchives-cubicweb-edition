@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@tinymce/tinymce-react": "^3.6.0",
+    "@tinymce/tinymce-react": "^3.14.0",
     "classnames": "^2.2.3",
     "immutable": "^3.8.1",
     "lodash": "^4.17.15",
